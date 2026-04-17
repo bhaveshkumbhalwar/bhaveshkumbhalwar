@@ -4,73 +4,80 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on **Waste Management System (SustainX)**
-* 🌱 Learning **Advanced MERN & System Design**
-* 💡 Interested in **Full Stack Development & Real-world Projects**
-* ⚡ Fun fact: I debug faster with coffee ☕
+<h1 align="center">Hi 👋, I'm Bhavesh Kumbhalwar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-## 🌐 Connect with Me
+## 🧑‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=twitter)](https://twitter.com/)
+* 🔭 Building **SustainX – Waste Management System**
+* 🌱 Learning **Advanced MERN & System Design**
+* 💡 Passionate about **Real-world scalable apps**
+* ⚡ Fun fact: *I debug faster at night 🌙*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bhaveshkumbhalwar\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bhaveshkumbhalwar&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkumbhalwar\&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkumbhalwar&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🧩 Featured Project
+## 🚀 Featured Project
 
 ### ♻️ SustainX - Waste Management System
 
-* 📍 Complaint Management
+* 📍 Complaint Management System
 * 🏆 Reward System
 * 👨‍💼 Admin Dashboard
-* 📊 Analytics
+* 📊 Analytics & Reports
 
 ---
 
 ## 🎯 Goals
 
-* 🚀 Become a top MERN developer
-* 🌍 Build impactful real-world projects
+* 🚀 Become a top MERN Developer
+* 🌍 Build impactful products
 * 🧠 Master DSA & System Design
 
 ---
 
-⭐ *"Code. Build. Impact."*
+<h3 align="center">✨ "Code. Build. Impact." ✨</h3>
+
