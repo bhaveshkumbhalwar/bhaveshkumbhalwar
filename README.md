@@ -9,75 +9,75 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-* 🔭 Building **SustainX – Waste Management System**
-* 🌱 Learning **Advanced MERN & System Design**
-* 💡 Passionate about **Real-world scalable apps**
-* ⚡ Fun fact: *I debug faster at night 🌙*
-
----
-
-## 🌐 Connect With Me
-
+<h1 align="center">Bhavesh Kumbhalwar</h1>
 <p align="center">
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  Building practical products with code ⚡  
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 Who I Am
+
+I build full-stack applications focused on solving real-world problems.
+Currently working on systems that combine **usability, performance, and clean architecture**.
+
+---
+
+### ⚙️ What I Work With
+
+```text
+Frontend   → React, HTML, CSS, JavaScript  
+Backend    → Node.js, Express  
+Database   → MongoDB  
+Tools      → Git, GitHub, VS Code
+```
+
+---
+
+### 🚀 Current Focus
+
+* Building **SustainX (Waste Management System)**
+* Improving **backend architecture & APIs**
+* Practicing **DSA for problem solving**
+
+---
+
+### 📊 Development Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,nodejs,express,mongodb,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🔥 Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=bhaveshkumbhalwar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+### 🧩 Highlight Project
+
+**SustainX — Waste Management System**
+A full-stack platform to manage complaints, rewards, and admin workflows.
+
+* Structured backend with REST APIs
+* Role-based system (User/Admin)
+* Real-time tracking & analytics
+
+---
+
+### 📫 Reach Me
+
+* LinkedIn → https://linkedin.com
+* Email → [your-email@gmail.com](mailto:your-email@gmail.com)
+
+---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=bhaveshkumbhalwar&theme=tokyonight&hide_border=true"/>
+  <i>Less noise. More impact.</i>
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkumbhalwar&theme=tokyo-night"/>
-</p>
-
----
-
-## 🚀 Featured Project
-
-### ♻️ SustainX - Waste Management System
-
-* 📍 Complaint Management System
-* 🏆 Reward System
-* 👨‍💼 Admin Dashboard
-* 📊 Analytics & Reports
-
----
-
-## 🎯 Goals
-
-* 🚀 Become a top MERN Developer
-* 🌍 Build impactful products
-* 🧠 Master DSA & System Design
-
----
-
-<h3 align="center">✨ "Code. Build. Impact." ✨</h3>
 
