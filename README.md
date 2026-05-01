@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Bhavesh Kumbhalwar
 
-🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
-
----
 
 <h1 align="center">Hi 👋, I'm Bhavesh Kumbhalwar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
