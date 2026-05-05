@@ -82,7 +82,7 @@ A full-stack platform designed for real-world impact
 ---
 
 <p align="center">
-  <b>⚡ Code with purpose. Build with impact.</b>
+  <b>⚡ Code with purpose. Build with impact</b>
 </p>
 
 
