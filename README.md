@@ -1,6 +1,6 @@
 # Hi 👋, I'm BHAVESH
 
-### A passionate Javascript developer
+### A passionate Java developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshkumbhalwar" alt="bhaveshkumbhalwar" /></a> </p>
 
