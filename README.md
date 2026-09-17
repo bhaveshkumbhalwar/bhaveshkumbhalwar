@@ -12,13 +12,7 @@ Code with purpose • Learn relentlessly • Build for impact
 
 <br/>
 
-<br/>
-
-<!-- Wide coding workspace / arcade-style visual -->
-
-<img src="https://i.imgflip.com/65efzo.gif" width="95%" alt="Coding workspace animation"/>
-
-<br/>
+<img src="https://www.pinterest.com/pin/861735709985953706/"/>
 
 </div>
 
@@ -46,41 +40,15 @@ I'm Bhavesh, a B.Tech Information Technology student passionate about building p
 
 <br clear="right"/>
 
-🧠 What I Focus On
+## 🧠 What I Focus On
 
 <div align="center">
 
-🤖 AI & ML
-
-🌐 Full Stack
-
-☁️ Cloud & DevOps
-
-🧠 Engineering
-
-Intelligent Systems
-
-Modern Web Apps
-
-Deployment & Automation
-
-DSA & Problem Solving
-
-Data Analysis
-
-REST APIs
-
-Docker & Kubernetes
-
-Scalable Architecture
-
-Anomaly Detection
-
-Backend Systems
-
-AWS & Linux
-
-Clean & Secure Code
+| 🤖 AI & ML | 🌐 Full Stack | ☁️ Cloud & DevOps | 🧠 Engineering |
+|:---:|:---:|:---:|:---:|
+| Intelligent Systems | Modern Web Apps | Deployment & Automation | DSA & Problem Solving |
+| Data Analysis | REST APIs | Docker & Kubernetes | Scalable Architecture |
+| Anomaly Detection | Backend Systems | AWS & Linux | Clean & Secure Code |
 
 </div>
 
@@ -88,49 +56,41 @@ Clean & Secure Code
 
 <div align="center">
 
-🤖 AI/ML → Data → EDA → Features → Models → Insights
-
-🌐 Full Stack → UI → APIs → Backend → Database → Product
-
-☁️ Cloud/DevOps → Containerize → Automate → Deploy → Scale
-
-🧠 Engineering → Solve → Design → Build → Optimize
+**🤖 AI/ML** → Data → EDA → Features → Models → Insights  
+**🌐 Full Stack** → UI → APIs → Backend → Database → Product  
+**☁️ Cloud/DevOps** → Containerize → Automate → Deploy → Scale  
+**🧠 Engineering** → Solve → Design → Build → Optimize
 
 </div>
 
-🚀 Featured Projects
+---
 
-🏙️ SustainX City
+# 🚀 Featured Projects
 
-Smart Waste Management Platform
+## 🏙️ SustainX City
+### *Smart Waste Management Platform*
 
-IoT-powered city-scale waste management with real-time monitoring, secure device communication and data-driven intelligence.
+> **IoT-powered city-scale waste management with real-time monitoring, secure device communication and data-driven intelligence.**
 
 <div align="center">
 
-📡 IoT 🔐 Security 📊 Analytics 🤖 AI/ML 🌐 APIs 🏙️ Smart City
+`📡 IoT` `🔐 Security` `📊 Analytics` `🤖 AI/ML` `🌐 APIs` `🏙️ Smart City`
 
 </div>
 
-✨ Core Capabilities
+### ✨ Core Capabilities
 
-📡 Smart Bin IoT — connected bins continuously provide operational data
+- 📡 **Smart Bin IoT** — connected bins continuously provide operational data
+- 📊 **Real-Time Monitoring** — track bin levels and latest device state
+- 🔐 **Secure Devices** — authenticated communication with validated payloads
+- 🗃️ **Reliable Data Layer** — immutable readings + latest-state storage
+- 🧠 **Intelligent Analytics** — identify patterns and operational anomalies
+- 📍 **Location Intelligence** — connect waste data with geographic context
+- ⚡ **API-First Architecture** — backend services designed for frontend and IoT integration
+- 🏙️ **City-Scale Ready** — architecture designed for future expansion
 
-📊 Real-Time Monitoring — track bin levels and latest device state
+### 🔄 System Flow
 
-🔐 Secure Devices — authenticated communication with validated payloads
-
-🗃️ Reliable Data Layer — immutable readings + latest-state storage
-
-🧠 Intelligent Analytics — identify patterns and operational anomalies
-
-📍 Location Intelligence — connect waste data with geographic context
-
-⚡ API-First Architecture — backend services for frontend and IoT integration
-
-🏙️ City-Scale Ready — architecture designed for future expansion
-
-🔄 System Flow
 
 Smart Bins
     ↓
@@ -145,64 +105,120 @@ Real-Time Monitoring
 Analytics & Intelligence
     ↓
 Smart Waste Decisions
+🛠️ Languages & Tools
 
-🛠️ Stack
-
-ESP32 Node.js REST APIs Database React Machine Learning
-
-🏛️ MPLAD AI Tracker
-
-AI-Powered Anomaly & Inefficiency Detection
-
-A data-driven platform for analyzing MPLAD implementation data and identifying unusual spending patterns, anomalies and potential risk indicators.
+💻 Programming Languages
 
 <div align="center">
 
-📂 Multi-Dataset 📊 EDA 🧠 ML 💰 Cost Analysis 🔍 Anomaly Detection 📈 Analytics
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="55" alt="Programming languages"/>
 
 </div>
 
-🧠 Intelligence Pipeline
+🤖 AI / ML & Data
 
-Government Data
-      ↓
-Data Cleaning
-      ↓
-Exploratory Analysis
-      ↓
-Feature Engineering
-      ↓
-Statistical Analysis
-      ↓
-Anomaly Detection
-      ↓
-ML-Based Insights
-      ↓
-Risk Indicators & Dashboard
+<div align="center">
 
-✨ Core Capabilities
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
 
-📂 Multi-Dataset Analysis — analyze multiple implementation datasets
+</div>
 
-🧹 Data Preprocessing — cleaning, transformation and validation
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-📊 EDA — uncover distributions, relationships and unusual patterns
+🌐 Frontend
 
-💰 Cost Intelligence — analyze project and expenditure patterns
+<div align="center">
 
-📈 Outlier Detection — statistically identify unusual observations
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="55" alt="Frontend technologies"/>
 
-🧠 ML Analysis — discover patterns using machine-learning techniques
+</div>
 
-📍 Location Insights — analyze project-level and location-level trends
+⚙️ Backend & APIs
 
-🚨 Risk Indicators — surface records requiring further investigation
+<div align="center">
 
-📊 Decision Dashboard — convert raw data into understandable insights
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,graphql" height="55" alt="Backend technologies"/>
 
-🛠️ Stack
+</div>
 
-Python Pandas NumPy Scikit-learn Matplotlib Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" height="55" alt="Database technologies"/>
+
+</div>
+
+☁️ DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,linux,ubuntu" height="55" alt="Cloud and DevOps"/>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+🔧 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="50" alt="Developer tools"/>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Component%20Development-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+🧩 What I'm Building Towards
+
+                         ┌──────────────────────┐
+                         │      REAL PROBLEM    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     COLLECT DATA     │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌───────────────────────────────┐
+                    │       ANALYZE & LEARN         │
+                    │       AI / ML / DATA          │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                    ┌───────────────────────────────┐
+                    │       BUILD THE PRODUCT       │
+                    │       FULL STACK + APIs       │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                    ┌───────────────────────────────┐
+                    │        DEPLOY & SCALE         │
+                    │        CLOUD + DEVOPS         │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                         🚀 REAL-WORLD IMPACT
 
 📊 GitHub Stats
 
@@ -294,28 +310,6 @@ Learn → Experiment → Build → Break → Debug → Improve → Repeat 🔁
 <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="90" alt="Keep coding"/>
 
 ⭐ Build something useful. Make it better. Keep going.
-
-</div>
-
-🕹️ Arcade Zone
-
-<div align="center">
-
-👾 Take a break from coding...
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution arcade"/>
-
-<br/><br/>
-
-<a href="https://www.google.com/search?q=Pacman+game">
-  <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" height="110" alt="Pacman arcade"/>
-</a>
-
-<br/>
-
-🟡 PAC-MAN MODE: ON
-
-🍒 Eat bugs. 🐛 Fix bugs. 🚀 Ship code.
 
 </div>
 
