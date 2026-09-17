@@ -40,120 +40,71 @@ I'm Bhavesh, a B.Tech Information Technology student passionate about building p
 
 <br clear="right"/>
 
-🧠 My Focus Areas
+## 🧠 What I Focus On
 
-🧩 Area
+<div align="center">
 
-What I'm Exploring
+| 🤖 AI & ML | 🌐 Full Stack | ☁️ Cloud & DevOps | 🧠 Engineering |
+|:---:|:---:|:---:|:---:|
+| Intelligent Systems | Modern Web Apps | Deployment & Automation | DSA & Problem Solving |
+| Data Analysis | REST APIs | Docker & Kubernetes | Scalable Architecture |
+| Anomaly Detection | Backend Systems | AWS & Linux | Clean & Secure Code |
 
-🤖 AI / ML
+</div>
 
-EDA • Feature Engineering • Feature Selection • Feature Extraction • PCA • Supervised & Unsupervised Learning • Model Training
+<br>
 
-🌐 Full Stack
+<div align="center">
 
-React • JavaScript • HTML • CSS • Backend APIs • Application Architecture
+**🤖 AI/ML** → Data → EDA → Features → Models → Insights  
+**🌐 Full Stack** → UI → APIs → Backend → Database → Product  
+**☁️ Cloud/DevOps** → Containerize → Automate → Deploy → Scale  
+**🧠 Engineering** → Solve → Design → Build → Optimize
 
-🧠 DSA
+</div>
 
-Data Structures • Algorithms • Problem Solving • Complexity Analysis
+---
 
-☁️ Cloud
+# 🚀 Featured Projects
 
-AWS • Cloud Fundamentals • Deployment
+## 🏙️ SustainX City
+### *Smart Waste Management Platform*
 
-⚙️ DevOps
+> **IoT-powered city-scale waste management with real-time monitoring, secure device communication and data-driven intelligence.**
 
-Docker • Kubernetes • CI/CD • Linux • WSL
+<div align="center">
 
-📊 Data
+`📡 IoT` `🔐 Security` `📊 Analytics` `🤖 AI/ML` `🌐 APIs` `🏙️ Smart City`
 
-Python • NumPy • Pandas • Visualization • Statistical Analysis
+</div>
 
-🏗️ Engineering
+### ✨ Core Capabilities
 
-REST APIs • Git • GitHub • Testing • Scalable Systems
+- 📡 **Smart Bin IoT** — connected bins continuously provide operational data
+- 📊 **Real-Time Monitoring** — track bin levels and latest device state
+- 🔐 **Secure Devices** — authenticated communication with validated payloads
+- 🗃️ **Reliable Data Layer** — immutable readings + latest-state storage
+- 🧠 **Intelligent Analytics** — identify patterns and operational anomalies
+- 📍 **Location Intelligence** — connect waste data with geographic context
+- ⚡ **API-First Architecture** — backend services designed for frontend and IoT integration
+- 🏙️ **City-Scale Ready** — architecture designed for future expansion
 
-🚀 Featured Projects
+### 🔄 System Flow
 
-🏙️ SustainX City — Smart Waste Management Platform
 
-An intelligent city-scale waste-management system combining IoT, backend services, data analytics and AI-driven insights.
-
-✨ Highlights
-
-📡 Smart Bin IoT integration
-
-🔐 Device authentication and secure communication
-
-📊 Real-time bin-level monitoring
-
-🗃️ Immutable reading history + latest-state storage
-
-🧠 Data-driven anomaly detection
-
-📍 Location-aware waste management
-
-⚡ Backend APIs for smart-bin operations
-
-🏙️ Designed with city-scale expansion in mind
-
-📈 Analytics-ready architecture
-
-Stack: IoT ESP32 Node.js REST API Database Machine Learning React
-
-🏛️ MPLAD AI Tracker
-
-An AI-powered system designed to analyze MPLAD Scheme implementation data and surface anomalies, potential fraud indicators and inefficiencies.
-
-🧠 Intelligence Pipeline
-
-Raw Government Data
-        │
-        ▼
-   Data Cleaning
-        │
-        ▼
-       EDA
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Anomaly / Outlier Detection
-        │
-        ▼
-   ML Analysis
-        │
-        ▼
- Risk & Insight Layer
-        │
-        ▼
-Analytics Dashboard
-
-✨ Core Capabilities
-
-📂 Multi-dataset analysis
-
-🧹 Data cleaning & preprocessing
-
-📊 Exploratory Data Analysis
-
-📈 Statistical outlier detection
-
-🧠 ML-based anomaly analysis
-
-💰 Project-cost analysis
-
-🔍 Identification of unusual patterns
-
-📍 Location/project-level insights
-
-📊 Interactive analytics
-
-🚨 Potential risk-indicator generation
-
-Stack: Python Pandas NumPy Scikit-learn Matplotlib Machine Learning
+Smart Bins
+    ↓
+IoT Data
+    ↓
+Secure API
+    ↓
+Validation & Storage
+    ↓
+Real-Time Monitoring
+    ↓
+Analytics & Intelligence
+    ↓
+Smart Waste Decisions
 
 🛠️ Languages & Tools
 
