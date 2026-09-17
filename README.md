@@ -90,14 +90,14 @@ I'm Bhavesh, a B.Tech Information Technology student passionate about building p
 
 ### ✨ Core Capabilities
 
-- 📡 **Smart Bin IoT** — connected bins continuously provide operational data
-- 📊 **Real-Time Monitoring** — track bin levels and latest device state
-- 🔐 **Secure Devices** — authenticated communication with validated payloads
-- 🗃️ **Reliable Data Layer** — immutable readings + latest-state storage
-- 🧠 **Intelligent Analytics** — identify patterns and operational anomalies
-- 📍 **Location Intelligence** — connect waste data with geographic context
-- ⚡ **API-First Architecture** — backend services designed for frontend and IoT integration
-- 🏙️ **City-Scale Ready** — architecture designed for future expansion
+- 📡 **Smart Bin IoT** : connected bins continuously provide operational data
+- 📊 **Real-Time Monitoring** : track bin levels and latest device state
+- 🔐 **Secure Devices** : authenticated communication with validated payloads
+- 🗃️ **Reliable Data Layer** : immutable readings + latest-state storage
+- 🧠 **Intelligent Analytics** : identify patterns and operational anomalies
+- 📍 **Location Intelligence** : connect waste data with geographic context
+- ⚡ **API-First Architecture** : backend services designed for frontend and IoT integration
+- 🏙️ **City-Scale Ready** : architecture designed for future expansion
 
 ### 🔄 System Flow
 
@@ -329,21 +329,32 @@ Learn → Experiment → Build → Break → Debug → Improve → Repeat 🔁
 
 <br/><br/>
 
-## 🕹️ README ARCADE
 
-<p align="center">
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
-  <img src="./dist/readme-arcade-dark.svg" width="920" alt="Animated GitHub contribution arcade"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhaveshkumbhalwar/bhaveshkumbhalwar/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bhaveshkumbhalwar/bhaveshkumbhalwar/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/bhaveshkumbhalwar/bhaveshkumbhalwar/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+    width="100%"
+  />
 </picture>
 
-</p>
+</div>
 
 <br/>
 
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="90" alt="Keep coding"/>
+<!-- <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="90" alt="Keep coding"/> -->
 
 ⭐ Build something useful. Make it better. Keep going.
 
