@@ -6,9 +6,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5A00,50:9B2C83,100:6B1F5A&height=180&section=header&text=BHAVESH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps&descAlignY=62&descSize=15" width="100%" />
 </a>
 
-Code with purpose • Learn relentlessly • Build for impact
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Think.+Build.+Deploy.+%7C+Learn.+Adapt.+Repeat." alt="Think. Build. Deploy. | Learn. Adapt. Repeat."/>
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=bhaveshkumbhalwar&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views"/>
 
 <br/>
 
