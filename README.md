@@ -234,9 +234,9 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
 
 </div>
 
@@ -244,7 +244,7 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=00ff88&fire=ff7a00&currStreakLabel=00d9ff" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=bhaveshkumbhalwar&hide_border=true&theme=transparent&ring=00ff88&fire=ff7a00&currStreakLabel=00d9ff" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -252,7 +252,7 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bhaveshkumbhalwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies"/>
 
 </div>
 
@@ -260,7 +260,7 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff88&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkumbhalwar&bg_color=0d1117&color=00ff88&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -291,11 +291,11 @@ Advanced Machine Learning • Deep Learning • DSA • System Design • Cloud 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/bhaveshkumbhalwar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kumbhalwarbhavesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
