@@ -1,296 +1,368 @@
 <div align="center">
 
-# Hey 👋 What's Up?
+<!-- ===================== HERO ===================== -->
 
-### I'm **[Your Name]** — [Your Role / Specialization] from **[Your Location]** 🚀
+<a href="https://github.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5A00,50:9B2C83,100:6B1F5A&height=180&section=header&text=BHAVESH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps&descAlignY=62&descSize=15" width="100%" />
+</a>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding animation" />
+Code with purpose • Learn relentlessly • Build for impact
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)]([YOUR_GITHUB_URL])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)]([YOUR_YOUTUBE_URL])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)]([YOUR_TWITTER_URL])
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)]([YOUR_DISCORD_URL])
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[YOUR_EMAIL])
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="190" alt="Coding animation"/>
 
 </div>
 
----
+📌 About Me
 
-## 👩‍💻 About Me
+<img align="right" height="170" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer animation"/>
 
-Hi! I'm **[Your Name]**, a **[Student / Developer / Engineer]** passionate about building technology that solves real-world problems.
+I'm Bhavesh, a B.Tech Information Technology student passionate about building practical software and intelligent systems.
 
-* 🔭 Currently working on **[Current Project / Domain]**
-* 🤖 Interested in **[AI / ML / Web Development / Cloud / etc.]**
-* 📚 Currently learning **[Technologies / Concepts]**
-* 🎯 Goal: **[Your Career / Technical Goal]**
-* 🧠 I enjoy turning complex problems into practical solutions
-* ⚡ In my free time, I explore new technologies and build projects
-* 🎲 Fun fact: **[Your Fun Fact]**
-* 💡 Always curious. Always building. Always learning.
+🎓 Currently pursuing B.Tech in Information Technology
 
----
+🤖 Focused on AI / Machine Learning
 
-## 🚀 What I Do
+🌐 Exploring Full-Stack Development
 
-```text
-🤖 Artificial Intelligence & Machine Learning
-🌐 Full-Stack Web Development
-📊 Data Analysis & Visualization
-☁️ Cloud Computing
-⚙️ DevOps & Deployment
-🧠 Problem Solving & DSA
-🔧 Software Engineering
-```
+☁️ Learning Cloud & DevOps
 
----
+🧠 Strengthening DSA, problem solving & system fundamentals
 
-# 🧰 Tech Stack
+🔬 Interested in transforming data into useful real-world solutions
 
-### 💻 Programming Languages
+🚀 I enjoy building projects, participating in hackathons and learning by doing
+
+🎯 Long-term goal: become a strong software/AI engineer capable of building scalable products
+
+<br clear="right"/>
+
+🧠 My Focus Areas
+
+🧩 Area
+
+What I'm Exploring
+
+🤖 AI / ML
+
+EDA • Feature Engineering • Feature Selection • Feature Extraction • PCA • Supervised & Unsupervised Learning • Model Training
+
+🌐 Full Stack
+
+React • JavaScript • HTML • CSS • Backend APIs • Application Architecture
+
+🧠 DSA
+
+Data Structures • Algorithms • Problem Solving • Complexity Analysis
+
+☁️ Cloud
+
+AWS • Cloud Fundamentals • Deployment
+
+⚙️ DevOps
+
+Docker • Kubernetes • CI/CD • Linux • WSL
+
+📊 Data
+
+Python • NumPy • Pandas • Visualization • Statistical Analysis
+
+🏗️ Engineering
+
+REST APIs • Git • GitHub • Testing • Scalable Systems
+
+🚀 Featured Projects
+
+🏙️ SustainX City — Smart Waste Management Platform
+
+An intelligent city-scale waste-management system combining IoT, backend services, data analytics and AI-driven insights.
+
+✨ Highlights
+
+📡 Smart Bin IoT integration
+
+🔐 Device authentication and secure communication
+
+📊 Real-time bin-level monitoring
+
+🗃️ Immutable reading history + latest-state storage
+
+🧠 Data-driven anomaly detection
+
+📍 Location-aware waste management
+
+⚡ Backend APIs for smart-bin operations
+
+🏙️ Designed with city-scale expansion in mind
+
+📈 Analytics-ready architecture
+
+Stack: IoT ESP32 Node.js REST API Database Machine Learning React
+
+🏛️ MPLAD AI Tracker
+
+An AI-powered system designed to analyze MPLAD Scheme implementation data and surface anomalies, potential fraud indicators and inefficiencies.
+
+🧠 Intelligence Pipeline
+
+Raw Government Data
+        │
+        ▼
+   Data Cleaning
+        │
+        ▼
+       EDA
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Anomaly / Outlier Detection
+        │
+        ▼
+   ML Analysis
+        │
+        ▼
+ Risk & Insight Layer
+        │
+        ▼
+Analytics Dashboard
+
+✨ Core Capabilities
+
+📂 Multi-dataset analysis
+
+🧹 Data cleaning & preprocessing
+
+📊 Exploratory Data Analysis
+
+📈 Statistical outlier detection
+
+🧠 ML-based anomaly analysis
+
+💰 Project-cost analysis
+
+🔍 Identification of unusual patterns
+
+📍 Location/project-level insights
+
+📊 Interactive analytics
+
+🚨 Potential risk-indicator generation
+
+Stack: Python Pandas NumPy Scikit-learn Matplotlib Machine Learning
+
+🛠️ Languages & Tools
+
+💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,go,rust,ruby" height="55" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="55" alt="Programming languages"/>
 
 </div>
 
-### 🌐 Frontend
+🤖 AI / ML & Data
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="55" />
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
 
 </div>
 
-### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+🌐 Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,graphql" height="55" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="55" alt="Frontend technologies"/>
 
 </div>
 
-### 🤖 AI / ML & Data
+⚙️ Backend & APIs
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="55" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,graphql" height="55" alt="Backend technologies"/>
 
 </div>
 
-**Tools & Concepts:**
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Jupyter` • `EDA` • `Feature Engineering` • `Feature Selection` • `Feature Extraction` • `Dimensionality Reduction` • `PCA` • `Supervised Learning` • `Unsupervised Learning` • `Clustering`
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
 
-### ☁️ Cloud & DevOps
+🗄️ Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase" height="55" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" height="55" alt="Database technologies"/>
 
 </div>
 
-**Tools:**
-`Docker` • `Kubernetes` • `AWS` • `Firebase` • `CI/CD` • `CircleCI`
-
-### 🗄️ Databases & Backend Services
-
-`[MySQL]` • `[PostgreSQL]` • `[MongoDB]` • `[Firebase]` • `[Other]`
-
-### 🧪 Testing & Development
-
-`Jest` • `Storybook` • `Git` • `GitHub` • `VS Code` • `Linux` • `WSL`
-
----
-
-# 🧠 Skills & Concepts
-
-| Domain         | Skills                                                     |
-| -------------- | ---------------------------------------------------------- |
-| 🤖 AI / ML     | Machine Learning, EDA, Feature Engineering, Model Training |
-| 📊 Data        | Data Cleaning, Visualization, Statistical Analysis         |
-| 🧠 DSA         | Arrays, Linked Lists, Stacks, Queues, Trees, Graphs        |
-| 🌐 Web         | React, Next.js, Node.js, NestJS, APIs                      |
-| ☁️ Cloud       | AWS, Firebase                                              |
-| ⚙️ DevOps      | Docker, Kubernetes, CI/CD                                  |
-| 🔧 Development | Git, GitHub, Linux, WSL                                    |
-| 🧪 Testing     | Jest, Storybook                                            |
-
----
-
-# 🔥 Featured Projects
-
-## 🚀 [Project Name 1]
-
-> **[One-line description of the project]**
-
-### ✨ Key Features
-
-* 🤖 [AI/ML feature]
-* 📊 [Analytics / visualization feature]
-* 🔐 [Security / authentication feature]
-* 🌐 [Web application feature]
-* ⚡ [Performance / automation feature]
-* 📡 [API / real-time feature]
-
-### 🛠️ Built With
-
-`Python` `React` `Node.js` `Machine Learning` `[Database]` `[Cloud]`
-
-[🔗 View Project](YOUR_PROJECT_URL)
-
----
-
-## 🧠 [Project Name 2]
-
-> **[One-line description]**
-
-### ✨ Key Features
-
-* [Unique feature]
-* [Unique feature]
-* [Unique feature]
-* [Unique feature]
-
-### 🛠️ Tech
-
-`[Technology]` `[…]` `[…]`
-
-[🔗 View Repository](YOUR_REPOSITORY_URL)
-
----
-
-# 📈 My Development Journey
-
-```text
-                    ┌─────────────────────┐
-                    │     LEARN 📚        │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │     BUILD 🛠️       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │    TEST 🧪          │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   DEPLOY ☁️         │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   IMPROVE 🚀        │
-                    └─────────────────────┘
-```
-
----
-
-# 📊 GitHub Stats
+☁️ DevOps & Cloud
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&hide_border=true" height="170" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,linux,ubuntu" height="55" alt="Cloud and DevOps"/>
 
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-# 🔥 Contribution Streak
+🔧 Development Tools
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="50" alt="Developer tools"/>
 
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Component%20Development-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-# 🐍 Contribution Snake
+🧩 What I'm Building Towards
+
+                         ┌──────────────────────┐
+                         │      REAL PROBLEM    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     COLLECT DATA     │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌───────────────────────────────┐
+                    │       ANALYZE & LEARN         │
+                    │       AI / ML / DATA          │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                    ┌───────────────────────────────┐
+                    │       BUILD THE PRODUCT       │
+                    │       FULL STACK + APIs       │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                    ┌───────────────────────────────┐
+                    │        DEPLOY & SCALE         │
+                    │        CLOUD + DEVOPS         │
+                    └──────────────┬────────────────┘
+                                   │
+                                   ▼
+                         🚀 REAL-WORLD IMPACT
+
+📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
 
 </div>
 
----
+🔥 Contribution Streak
 
-# 📌 Currently Learning
+<div align="center">
 
-```text
-🤖 Advanced Machine Learning
-🧠 Deep Learning
-📊 Advanced Data Science
-🌐 Full-Stack Development
-☁️ Cloud Architecture
-⚙️ DevOps & CI/CD
-🧩 System Design
-🧠 Advanced DSA
-```
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=00ff88&fire=ff7a00&currStreakLabel=00d9ff" alt="GitHub contribution streak"/>
 
----
+</div>
 
-# 🎯 2026 Goals
+🏆 GitHub Trophies
 
-* [ ] Build production-grade AI/ML projects
-* [ ] Master advanced Machine Learning
-* [ ] Strengthen DSA & problem solving
-* [ ] Build scalable full-stack applications
-* [ ] Learn cloud architecture
-* [ ] Build and deploy real-world systems
-* [ ] Contribute to open source
-* [ ] Participate in hackathons
-* [ ] Keep learning something new every day 🚀
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies"/>
 
-# 🏆 Achievements
+</div>
 
-🏅 **[Achievement / Award]**
-🥇 **[Competition / Hackathon]**
-📜 **[Certification]**
-🎓 **[Academic Achievement]**
-🚀 **[Other Achievement]**
+📈 Activity Graph
 
----
+<div align="center">
 
-# 💡 Developer Philosophy
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff88&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
 
-> **"Don't just learn technology. Build something meaningful with it."**
+</div>
 
-```text
+📚 Currently Learning
+
+<div align="center">
+
+Advanced Machine Learning • Deep Learning • DSA • System Design • Cloud Architecture • DevOps • Scalable Applications
+
+</div>
+
+🎯 Goals
+
+☑ Build meaningful real-world projects
+☑ Strengthen Machine Learning fundamentals
+☑ Improve DSA & problem-solving skills
+☑ Build scalable full-stack applications
+☑ Explore Cloud & DevOps
+☑ Participate in hackathons
+☑ Contribute to open source
+☑ Turn ideas into working products
+
+🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="YOUR_DISCORD_URL">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+</div>
+
+<div align="center">
+
+💭 Developer Mindset
+
 Learn → Experiment → Build → Break → Debug → Improve → Repeat 🔁
-```
 
----
+<br/>
 
-# 📫 Let's Connect
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
-<div align="center">
+<br/><br/>
 
-If you're interested in **AI/ML, Web Development, Cloud, DevOps, Open Source, or building crazy projects**, let's connect and build something awesome! 🚀
+<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="90" alt="Keep coding"/>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)]([YOUR_GITHUB_URL])
+⭐ Build something useful. Make it better. Keep going.
 
 </div>
 
----
+<!-- ===================== FOOTER ===================== -->
 
-<div align="center">
-
-### ⭐ If you find my projects interesting, consider giving them a star!
-
-**Thanks for visiting my profile! 👋**
-
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B1F5A,50:9B2C83,100:8B5A00&height=100&section=footer" width="100%" />
