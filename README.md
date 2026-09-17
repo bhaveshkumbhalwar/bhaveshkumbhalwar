@@ -234,34 +234,46 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg">
+  <img src="./assets/overview.dark.svg" width="100%" alt="GitHub overview statistics"/>
+</picture>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg">
+  <img src="./assets/languages.dark.svg" width="100%" alt="GitHub language statistics"/>
+</picture>
 
 </div>
 
-🔥 Contribution Streak
+🔥 Contribution Streak & Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bhaveshkumbhalwar&hide_border=true&theme=transparent&ring=00ff88&fire=ff7a00&currStreakLabel=00d9ff" alt="GitHub contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg">
+  <img src="./assets/contributions.dark.svg" width="100%" alt="GitHub contribution history and streak"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rhythm.light.svg">
+  <img src="./assets/rhythm.dark.svg" width="100%" alt="GitHub contribution activity rhythm"/>
+</picture>
 
 </div>
 
 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhaveshkumbhalwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies"/>
-
-</div>
-
-📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkumbhalwar&bg_color=0d1117&color=00ff88&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
-
+  <img src="./assets/trophy.svg" width="100%" alt="GitHub profile trophies"/>
 </div>
 
 📚 Currently Learning
@@ -287,7 +299,7 @@ Advanced Machine Learning • Deep Learning • DSA • System Design • Cloud 
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -299,7 +311,7 @@ Advanced Machine Learning • Deep Learning • DSA • System Design • Cloud 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.com/">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
@@ -316,6 +328,20 @@ Learn → Experiment → Build → Break → Debug → Improve → Repeat 🔁
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 <br/><br/>
+
+## 🕹️ README ARCADE
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
+  <img src="./dist/readme-arcade-dark.svg" width="920" alt="Animated GitHub contribution arcade"/>
+</picture>
+
+</p>
+
+<br/>
 
 <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="90" alt="Keep coding"/>
 

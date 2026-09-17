@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="180" viewBox="0 0 846 180">
+<rect width="846" height="180" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="844" height="178" rx="15" fill="none" stroke="#30363d"/>
+<text x="423" y="78" text-anchor="middle" fill="#00ff88" font-family="Arial, sans-serif" font-size="25" font-weight="700">GitHub Trophies</text>
+<text x="423" y="116" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Run the 'Update Profile Cards' workflow to generate the trophy SVG.</text>
+</svg>

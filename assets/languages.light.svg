@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="190" viewBox="0 0 846 190">
+<rect width="846" height="190" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="844" height="188" rx="15" fill="none" stroke="#30363d"/>
+<text x="423" y="82" text-anchor="middle" fill="#00ff88" font-family="Arial, sans-serif" font-size="25" font-weight="700">Top Languages</text>
+<text x="423" y="120" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Generated locally in your profile repository.</text>
+</svg>
