@@ -12,7 +12,13 @@ Code with purpose • Learn relentlessly • Build for impact
 
 <br/>
 
-<img src="https://www.pinterest.com/pin/861735709985953706/"/>
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
+    width="95%"
+    alt="Coding animation"
+  />
+</div>
 
 </div>
 
