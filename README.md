@@ -225,9 +225,9 @@ Smart Waste Decisions
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumbhalwar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&icon_color=00d9ff" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkumbhalwar&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff" alt="Top languages"/>
 
 </div>
 
