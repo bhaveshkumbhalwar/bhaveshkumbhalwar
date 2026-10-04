@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO ===================== --> 
-
+ 
 <a href="https://github.com/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5A00,50:9B2C83,100:6B1F5A&height=180&section=header&text=BHAVESH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps&descAlignY=62&descSize=15" width="100%" />
 </a> 
