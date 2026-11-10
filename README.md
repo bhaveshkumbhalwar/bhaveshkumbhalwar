@@ -198,37 +198,6 @@ Smart Waste Decisions
   <img src="https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-🧩 What I'm Building Towards
-
-                         ┌──────────────────────┐
-                         │      REAL PROBLEM    │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │     COLLECT DATA     │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                    ┌───────────────────────────────┐
-                    │       ANALYZE & LEARN         │
-                    │       AI / ML / DATA          │
-                    └──────────────┬────────────────┘
-                                   │
-                                   ▼
-                    ┌───────────────────────────────┐
-                    │       BUILD THE PRODUCT       │
-                    │       FULL STACK + APIs       │
-                    └──────────────┬────────────────┘
-                                   │
-                                   ▼
-                    ┌───────────────────────────────┐
-                    │        DEPLOY & SCALE         │
-                    │        CLOUD + DEVOPS         │
-                    └──────────────┬────────────────┘
-                                   │
-                                   ▼
-                         🚀 REAL-WORLD IMPACT
 
 📊 GitHub Stats
 
